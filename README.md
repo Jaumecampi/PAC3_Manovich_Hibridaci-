@@ -1,0 +1,94 @@
+# PAC-3 HIBRIDACIÓ
+*per Jaume Campillejo González*
+
+## 1.-INTRODUCCIÓ
+
+Durant les primeres passes del que és digital fins avui dia, tot ha evolucionat a una velocitat extraordinària. Per l’autor Lev Manovich, del llibre “*El software toma el mando*” (2013), per entendre aquesta evolució dels nous medis hem d’entendre un terme molt important, la hibridació.
+Aquesta hibridació és la mescla de dos elements per crear una nova experiència, allunyant-se de la clàssica experiència dels dos elements per separat. Un exemple d’hibridació seria la interacció amb les obres digitals, les quals ajunten imatge, vídeo i text per explicar-te tota la informació del que estàs observant a la pantalla, és a dir
+aquest hipotètic lloc web mescla medis com el vídeo, la imatge i el text tot al mateix temps per crear una nova experiència interactiva i coherent.
+
+## 2.-CASOS ELEGITS
+
+Els casos d’hibridació que he elegit són dos: Discord i Steam.
+
+- **Discord** és una aplicació que permet escriure, compartir vídeos, parlar a un xat de veu i mostrar la teva cara si tens una webcam. Això crea una nova experiència híbrida que et permet per exemple mirar un vídeo 
+mentre parles i el comentes pel xat de veu amb un amic, fer una videotrucada amb algú que fa molt temps que no veus o simplement parlar en el xat de text del grup.
+
+- **Steam** és una aplicació que es basa en la compra de videojocs digitals, però no sols això, ja que també permet visualitzar imatges i vídeos dels jocs i comentar o llegir comentaris sobre l’opinió d’altres usuaris sobre els diferents jocs que hi ha a la biblioteca de Steam.
+Per exemple, si veus un joc que t’interessa i cliques per veure més, Steam et permet veure vídeos, imatges i opinar sobre el joc, de manera que totes aquestes experiències es ajunten i s’experimenten de manera interactiva, coherent i et permet saber si val la pena o no cada joc.
+
+## 3.-DISCORD
+
+![logotip Discord](https://www.internetmatters.org/wp-content/uploads/2020/07/discord-guide-app-image-1-600x315.png)
+
+### 3.1-PETITA INTRODUCCIÓ
+
+Discord és una aplicació la qual es va introduir l’any **2015** de manera gratuïta com una aplicació de comunicació per veu ràpida i senzilla mentre es juga, com a resposta a altres aplicacions similars les quals eren menys fàcils d’utilitzar. Discord va ser un
+èxit, ja que com estava programat per estar en funcionament mentre es jugava permetia que pràcticament no afectes al rendiment del joc, i tenies una comunicació per veu constant amb els teus companys. Però també és popular per altres coses que no sols jugar, com per exemple 
+un xat de text en el qual la gent pot escriure, comentar i inserir vídeos del que vulgui, pequè els altres usuaris del grup puguin interactuar amb ell. Durant l’any **2017** Discord va afegir una nova característica, la capacitat de compartir pantalla en el xat de veu, d’aquesta manera 
+els companys que estiguin dins el xat de veu però no juguin amb tu són capaços de veure la teva partida si tu vols. Però compartir la teva pantalla no va ser l’única caracterísitca nova, Discord va afegir Nitro, era una eina la qual l’usuari 
+pagava i a canvi obtenia característiques millorades, com per exemple una millor resolució quan comparties pantalla. Per tot això Discord és una de les aplicacions de veu, i altres aspectes, més utilitzada del món.
+
+### 3.2-AVANTATGES
+
+Els avantatges d’aquesta aplicació són vàries. En primer lloc, trobem la més bàsica, la capacitat de parlar amb els teus companys i amics sense afectar pràcticament el rendiment del joc i de manera senzilla, simplement has de clicar sobre el canal de veu al que vols entrar i ja ets dins preparat
+per parlar amb qui hi hagi dins el canal. Això et permet gaudir del joc amb més gent, millorant l’experiència. En segon lloc, trobem la capacitat de xatejar de manera textual en el grup, aquesta característica no només permet expressar-se amb text, sinó també es té la capacitat de pujar vídeos que es 
+poden reproduir dins el propi Discord, GIF, enllaços a altres continguts o reaccionar amb emoticones al que comparteixin els teus amics, això crea un espai interactiu amb moltes possibilitats per l’usuari. En tercer lloc, l’aplicació permet activar la càmera per poder veure la cara de la persona amb 
+la qual estàs al xat de veu, creant així una interacció més humana i agradable. Seguidament, Discord permet compartir la teva pantalla a temps real amb els teus companys, de manera que pots no sols mostrar-los el joc al qual jugues, sinó que pots mostrar-los qualsevol cosa que estiguis fent a la pantalla,
+com treballs de classe, vídeos de YouTube, etc. I per finalitzar, no s’ha d’oblidar que Discord té una aplicació adaptada al mòbil, la qual permet unir un compte a l’ordinador i al mòbil, de manera que puguis xatejar amb els teus amics des de qualsevol dispositiu i des de qualsevol lloc.
+
+### 3.3-HIBRIDACIÓ
+
+Després de tota l’explicació anterior podem veure que a Discord hi trobem la hibridació de diferents elements i medis de manera bastant clara, creant una interacció rica i fàcil pels nous usuaris. L’aplicació mescla de manera magistral el xat per veu, el xat de text, la compartició de pantalla i la webcam de manera que es crea una experiència
+i un ambient còmode i agradable per l’usuari. És a dir, quan tu crees un grup nou a Discord, aquest et crea un grup complet, on els usuaris poden xatejar per veu i per text en els diferents canals del grup, no limita sols a utilitzar una característica,
+sinó que al mateix temps et permet utilitzar totes les altres característiques de l’aplicació. Un exemple molt clar d’aquesta hibridació és quan et trobes en un xat de veu amb un amic i al mateix temps que parleu tu comparteixes pantalla perquè ell pugui veure com jugues o qualsevol altra activitat que estiguis fent amb l’ordinador.
+
+### 3.4-CONCLUSIÓ DISCORD
+
+En conclusió, Discord és una hibridació de diferents medis la qual permet una comunicació i interacció fàcil, fluida i variada.
+
+
+## 4.-STEAM
+
+![logotip Steam](https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/WCP5IECNM5AQPMU4ER4GESRCHQ.jpg)
+
+### 4.1-INTRODUCCIÓ
+
+L’any **2003** Valve Corporation, empresa famosa per la creació del Counter-Strike, va decidir crear una plataforma de distribució digital dels seus videojocs, la qual amb el temps va afegir videojocs de tercers. Aquesta plataforma va rebre el nom de Steam. La idea principal d’aquesta aplicació és crear una biblioteca amb els teus videojocs, 
+els quals es puguin actualitzar des d’ella mateixa,
+i una tenda digital de videojocs en format digital. Però, aquestes característiques no són les úniques, ja que Steam permet interactuar amb altres usuaris mitjançant comentaris, també et mostra vídeos, imatges i puntuació del joc perquè et puguis fer a una idea de si val la pena o no, guardat al núvol, entre altres característiques.
+
+### 4.2-AVANTATGES
+
+Steam té molts avantatges com a aplicació. Per començar, Steam és una biblioteca i tenda de videojocs, on tots els jocs que compris o descarreguis de l’aplicació es guardaran a la biblioteca de la teva conta, fent fàcil l’accés i l’actualització d’aquests, d’aquesta manera no t’has de perdre per diferents webs o aplicacions per trobar 
+els teus jocs. En segon lloc, aquest format de compra guanya en velocitat i accessibilitat a les tendes físiques de videojocs, ja que just quan compres el joc aquest es comença a descarregar, qualsevol usuari amb connexió pot utilitzar els serveis de Steam i no perds el temps per buscar el joc en les estanteries de la tenda, perquè Steam
+té un cercador. En tercer lloc, Steam permet veure vídeos i imatges dels videojocs els quals vols adquirir, i no sols això, sinó que també pots veure puntuacions i comentaris dels usuaris sobre aquell joc, totes aquestes característiques juntes et permeten jutjar si el joc val la pena o no. A més a més, pots ajudar a altres usuaris responent
+a preguntes o escrivint la teva opinió sobre el joc al qual has jugat. Seguidament, l’aplicació té una característica molt útil, Steam Cloud, la qual permet guardar les teves partides al núvol, d’aquesta manera si jugues des d’un altre dispositiu pots continuar amb la teva partida. Per finalitzar, Steam permet als petits programadors utilitzar 
+les eines de Steam i pujar els seus jocs, fent això Steam permet crèixer als petits programadors o petites empreses per així crear un futur pels videojocs i els programadors.
+
+### 4.3-HIBRIDACIÓ
+
+Al veure totes les característiques i medis que pot oferir Steam, podem veure que és un cas d’hibridació. Steam hibrida diferents medis i característiques per crear una interacció coherent i adequada pels usuaris. Per exemple els usuaris poden utilitzar les eines de Steam per crear un joc, pujar-lo a Steam i rebre feedback des de la pròpia aplicació,
+això permet que tots aquests processos siguin més satisfactoris pel programador, 
+i inclòs hi pugui treure benefici econòmic. Un altre exemple clar és la hibridació de vídeo i text, el qual permet a l’usuari elegir de manera més segura el joc, ja que aquest té un conjunt de vídeos, imatges, puntuacions i opinions d’usuaris tot al mateix lloc, així elegir per l’usuari és més fàcil i no ha d’anar visitant diferents fòrums per internet.
+
+### 4.4-CONCLUSIÓ STEAM
+
+En conclusió, Steam és una aplicació que ha anat evolucionant cap a una aplicació hibridada, la qual permet que l’usuari pugui realitzar diferents activitats relacionades amb els videojocs, ja sigui compra, interacció amb usuaris o creació, en un mateix lloc, evitant perdre el temps navegant per internet per trobar informació i opinions dels teus videojocs 
+preferits.
+
+## 5.-BIBLIOGRAFIA
+
+Hibridació Manovich: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+
+Hibridació Manovich: https://educomuniquemosuned.wordpress.com/2016/12/22/sintesis-el-software-toma-el-mando/
+
+Discord wikipedia: https://ca.wikipedia.org/wiki/Discord
+
+Steam wikipedia: https://es.wikipedia.org/wiki/Steam 
+
+Imatge Discord: https://www.internetmatters.org/wp-content/uploads/2020/07/discord-guide-app-image-1-600x315.png
+
+Imatge Steam: https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/WCP5IECNM5AQPMU4ER4GESRCHQ.jpg
+
+S’han utilitzat els recursos d’aprenentatge de la UOC de l’assignatura de Cultura digital.
